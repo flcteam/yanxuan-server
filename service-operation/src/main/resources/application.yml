@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: service-operation
+  datasource:
+    username: root
+    password: wing.921221.
+    url: jdbc:mysql://120.24.242.137:3306/yanxuan?useUnicode=true&amp;characterEncoding=utf-8
+server:
+  port: 8888

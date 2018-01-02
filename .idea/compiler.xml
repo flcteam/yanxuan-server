@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="app-apiservice" />
         <module name="eureka-server" />
         <module name="yanxuan-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="app-apiservice" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="yanxuan-server" target="1.8" />
     </bytecodeTargetLevel>
