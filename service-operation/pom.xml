@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.flc</groupId>
-	<artifactId>app-apiservice</artifactId>
+	<artifactId>service-operation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>app-apiservice</name>
+	<name>service-operation</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
